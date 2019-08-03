@@ -8,12 +8,13 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
-
+.[Admin Registration] https://github.com/saisravanthi1/liftoff-assignments/blob/master/P3-Project_Planning/Register.jpg
+.[Admin LoginPage]  https://github.com/saisravanthi1/liftoff-assignments/blob/master/P3-Project_Planning/Login.jpg
+.[Add Item]  https://github.com/saisravanthi1/liftoff-assignments/blob/master/P3-Project_Planning/AddItem.jpg
+.[Remove Item] https://github.com/saisravanthi1/liftoff-assignments/blob/master/P3-Project_Planning/Remove.jpg
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
-
+https://trello.com/b/KvlDLZH0/online-restaurant-order
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+https://github.com/vineela517/Online-Restaurant-Order
