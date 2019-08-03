@@ -8,10 +8,13 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-.[Admin Registration] https://github.com/saisravanthi1/liftoff-assignments/blob/master/P3-Project_Planning/Register.jpg
-.[Admin LoginPage]  https://github.com/saisravanthi1/liftoff-assignments/blob/master/P3-Project_Planning/Login.jpg
-.[Add Item]  https://github.com/saisravanthi1/liftoff-assignments/blob/master/P3-Project_Planning/AddItem.jpg
-.[Remove Item] https://github.com/saisravanthi1/liftoff-assignments/blob/master/P3-Project_Planning/Remove.jpg
+*[Admin Registration] (https://github.com/saisravanthi1/liftoff-assignments/blob/master/P3-Project_Planning/Register.jpg)
+
+*[Admin LoginPage]  https://github.com/saisravanthi1/liftoff-assignments/blob/master/P3-Project_Planning/Login.jpg
+
+*[Add Item]  https://github.com/saisravanthi1/liftoff-assignments/blob/master/P3-Project_Planning/AddItem.jpg
+
+*[Remove Item] https://github.com/saisravanthi1/liftoff-assignments/blob/master/P3-Project_Planning/Remove.jpg
 ### Project Tracker
 
 https://trello.com/b/KvlDLZH0/online-restaurant-order
