@@ -13,4 +13,4 @@ https://github.com/saisravanthi1
 https://www.linkedin.com/in/sravanthi-reddy-787979190/
 
 ### Resume
-https://github.com/saisravanthi1/liftoff-assignments/blob/master/C1-Online_Profiles/Sravanthi%20Kandati%20Resume.pdf
+https://github.com/saisravanthi1/liftoff-assignments/blob/master/C1-Online_Profiles/Sravanthi%20Kandati%20Resume%201.pdf
