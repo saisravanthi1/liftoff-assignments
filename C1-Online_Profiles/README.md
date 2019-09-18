@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume, and provide links to yo
 https://github.com/saisravanthi1
  
 ### LinkedIn
-https://www.linkedin.com/in/sravanthi-reddy-787979190/
+https://www.linkedin.com/in/sravanthi-kandati-787979190/
 
 ### Resume
 https://github.com/saisravanthi1/liftoff-assignments/blob/master/C1-Online_Profiles/Sravanthi%20Kandati%20Resume%201.pdf
